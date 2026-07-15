@@ -1,5 +1,5 @@
 # BIT.TRIP-Runner2-FR-Patch
-A unnoficial FR patch for BIT.TRIP RUNNER2 
+An unnoficial FR patch for BIT.TRIP RUNNER2 
 
 STEPS :
 
