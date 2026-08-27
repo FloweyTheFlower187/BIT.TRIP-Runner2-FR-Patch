@@ -53,3 +53,7 @@ Ghidra : Reverse engineering
     Problem : xdelta3 not found
 
     Fix : Make sure you installed xdelta3.exe in the same directory as the "fr_patch.py"
+
+
+# Credits
+* [xdelta3](https://github.com/xorgy/xdelta3/)
