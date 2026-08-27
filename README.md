@@ -57,3 +57,5 @@ Ghidra : Reverse engineering
 
 # Credits
 * [xdelta3](https://github.com/xorgy/xdelta3/)
+* [Ghidra](https://github.com/nationalsecurityagency/ghidra)
+* [HxD](https://mh-nexus.de/en/hxd/)
