@@ -3,6 +3,8 @@
 
 This version does not include french special characters (é,è,à,ç,etc...)
 
+The patch only works for Windows users !
+
 # EN >>>>>> FR
 
     STEPS :
